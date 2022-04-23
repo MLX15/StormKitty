@@ -61,8 +61,6 @@ By using this software, you automatically agree to the above.
   <img src="Images/Builder.jpg">
 </p>
 
-## :robot: [Download compiled builder and source code](https://github.com/LimerBoy/StormKitty/releases)
-
 ***
 
 # :loudspeaker: Telegram notification:
@@ -72,12 +70,3 @@ By using this software, you automatically agree to the above.
 
 ***
 
-# :moneybag: Donate:
-**BTC:** `1GvEsEEdD8kfbSia6QR3Hk1G4fzy2mwZE4`  
-**ETH:** `0x4f62ce9632efF28f175aAAdd58B14A0AC053A952`  
-**XMR:** `487sRQv2gBXHVPc59Lkz5j7bgJ28Qy8nPW6hUvRyFWxM84cWzEnmVcWf6MWEQ59BwrP4viyoz6gfqhDPb1yiUx2SUViKVwd`  
-
-***
-
-# :purple_heart: Thanks for the development help:
-* [@0xPh0enix](https://github.com/0xPh0enix)
